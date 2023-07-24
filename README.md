@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-<!--
-**wahyuozh/wahyuozh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Halo semua! 
 
-Here are some ideas to get you started:
+Introduce myself, my name is **Wahyu Ozorah Manurung**.\
+
+I'm a **Undergraduate Informatika** 
+
+If you are interested in dating me, please follow the account [Linkedin](https://www.linkedin.com/in/wahyu-ozorah-3a6a36212/).
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
