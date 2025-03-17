@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Wahyu Ozorah Manurung</h1>
-<h3 align="center">I am a sixth semester student pursuing a bachelor's degree in informatics engineering at Bengkulu University. I want to expand my knowledge and skills in the field of programming. I believe that continuous learning and practical experience are the keys to becoming proficient in programming languages ​​and software development.</h3>
+<h3 align="center">I am a sixth semester student pursuing a bachelor's degree in informatics engineering at Bengkulu University. I want to expand my knowledge and skills in the field of programming and AI. I believe that continuous learning and practical experience are the keys to becoming proficient in programming languages ​​and software development.</h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/codegif.gif" width="320" height="284" />
 
