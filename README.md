@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **about programming and computer networks. In programming, I learned how to write code to create apps and websites. Meanwhile in computer networks, I am learning how to organize and manage infrastructure to connect computers. With these skills, I hope to pursue an exciting career in the IT industry.**
+- 🌱 I’m currently learning about programming and computer networks. In programming, I learned how to write code to create apps and websites. Meanwhile in computer networks, I am learning how to organize and manage infrastructure to connect computers. With these skills, I hope to pursue an exciting career in the IT industry.nAdditionally, I am also exploring Artificial Intelligence (AI) and Machine Learning (ML). AI enables machines to simulate human intelligence, while ML allows computers to learn from data and make predictions. I am particularly interested in how AI can be applied to various fields, such as automation, data analysis, and decision-making. By mastering these technologies, I aim to contribute to the development of innovative solutions that can solve real-world problems.**
 
 - 📫 How to reach me **wahyuozorahmanurung@gmail.com**
 
