@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Wahyu Ozorah Manurung</h1>
-<h3 align="center">I am a sixth semester student pursuing a bachelor's degree in informatics engineering at Bengkulu University. I want to expand my knowledge and skills in the field of programming and AI. I believe that continuous learning and practical experience are the keys to becoming proficient in programming languages ​​and software development.</h3>
+<h3 align="center">I am a Final Years student pursuing a bachelor's degree in informatics engineering at Bengkulu University. I want to expand my knowledge and skills in the field of programming and AI. I believe that continuous learning and practical experience are the keys to becoming proficient in programming languages ​​and software development.</h3>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/kritikseth/kritikseth/master/assets/images/codegif.gif" width="320" height="284" />
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/wahyuozorah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahyuozorah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/wahyu-ozorah-3a6a36212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahyuozorah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/wahyuozorah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wahyuozorah" height="30" width="40" /></a>
 </p>
 
